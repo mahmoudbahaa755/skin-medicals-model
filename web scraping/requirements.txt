@@ -1,0 +1,9 @@
+flask
+flask_restful
+pyngrok
+Pillow
+numpy
+ultralytics
+roboflow
+wget
+selenium
